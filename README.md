@@ -15,6 +15,9 @@ A R command line tool to rename adult video files.
 	* If the results are not the ones you're looking for, press n then press enter. The file will not be renamed.
 	* You can press m then press enter, then rename this file whatever you want.
 
+# Example
+[!screenshot.png]
+![screenshot](https://raw.githubusercontent.com/yukirin-ptt/av_rename_R/master/screenshot.png)
 
 # Acknowledgement
 * This project is inspired by [Everaver](http://everaver.blogspot.com). It's THE almighty tool to renaming adult video files. It can only works on Windows, so I developed a much simpler one on my Mac.
